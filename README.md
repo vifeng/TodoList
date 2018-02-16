@@ -1,6 +1,13 @@
 # TodoList
 
+Workshop with Ng Girls. A very nice discovery of angular with very nice people. Much fun !
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
+
+## Documentation 
+NGGirls website
+http://ng-girls.org/
+Tutorial
+https://ng-girls.gitbooks.io/todo-list-tutorial/content/
 
 ## Development server
 
