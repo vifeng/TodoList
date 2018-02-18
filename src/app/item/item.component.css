@@ -24,3 +24,6 @@
 .btn-red:hover {
   background: darkred;
 }
+.todo-complete {
+  text-decoration: line-through;
+}
